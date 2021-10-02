@@ -20,5 +20,6 @@ public class Main {
         String s1 = "lol";
         System.out.println(s1 == "lol"); //Так нельзя сравнивать
         System.out.println(s1.equals("lol")); //Так надо    Строки - ссылочный тип данных
+        System.out.println("Проверяю коммиты!");
     }
 }
